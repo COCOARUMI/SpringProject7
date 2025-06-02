@@ -6,10 +6,26 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
 public class TestController2 {
-	@RequestMapping(value="/test1", method = RequestMethod.GET)
-    public void test2() {
 	
+	@RequestMapping(value="/test2", method = RequestMethod.GET)
+    public void test2() {
+		
+	//기능 완료
 }
+	
+	@RequestMapping(value="/test3", method = RequestMethod.GET)
+    public void test3() {
+		
+	//기능 완료
+}
+	
+	
+	@RequestMapping(value="/test4", method = RequestMethod.GET)
+    public void test4() {
+		
+	//기능 완료
+}
+	
 	
 	
 }
