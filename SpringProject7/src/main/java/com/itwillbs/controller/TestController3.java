@@ -20,4 +20,11 @@ public class TestController3 {
 	public void test8(){
 		
 	}//다시  
+
+	@RequestMapping(value="/test8")
+	public void test9(){
+		
+	}//다시  
+
+
 }
