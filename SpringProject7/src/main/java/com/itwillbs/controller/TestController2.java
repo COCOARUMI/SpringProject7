@@ -34,11 +34,7 @@ public class TestController2 {
 				
 }
 	
-	@RequestMapping(value="/test7")
-	public void test7(){
+
 		
-	}//´Ù½Ã
-	
-	
 	
 }
